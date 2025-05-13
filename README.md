@@ -1,4 +1,4 @@
-![logo](https://github.com/jannatwin/jannatwin/blob/main/Jannat%20Win.png)
+![logo](https://github.com/jannatwin/jannatwin/blob/main/Jannat.png)
 <h1 align="center">Hi 👋, I'm JANNAT</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
